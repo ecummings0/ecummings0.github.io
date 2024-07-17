@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (CV)](https://ralobos.github.io/files/CV_RLOBOS_OCT_2023.pdf)
+[Curriculum Vitae (CV)](https://ecummings0.github.io/files/Cummings_CV_2024_v1.pdf)
 
-I'm a postdoctoral researcher working under the guidance of Prof. Jeffrey Fessler, Prof. Douglas Noll, and Prof. Zhongming Liu at the University of Michigan. I completed my PhD studies at the University of Southern California working under the supervision of Prof. Justin Haldar.  My research interests include signal and image processing, magnetic resonance imaging (MRI), computational imaging, inverse problems, and the connections between machine learning and constrained image reconstruction.
+I'm a PhD candidate working under Nicole Seiberlich in the Michigan Institute of Imaging Technology and Translation (MIITT) at the University of Michigan. My research interests include pulse sequence design and image reconstruction for MRI, specifically with applications in MR Fingerprinting and low-field imaging.
