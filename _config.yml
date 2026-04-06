@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Evan Cummings"
   avatar           : "IMG_2934 - Copy.JPG"
-  bio              : "PhD Candidate at University of Michigan <b>cumminge@umich.edu </b>"
+  bio              : "Postdoctoral Scholar at University of Michigan <b>cumminge@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
   googlescholar    : #"https://scholar.google.com/citations?user=J7WSE60AAAAJ&hl=en&oi=ao"
-  email            : #"rlobos@usc.edu"
+  email            : "ecummings313@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/evan-cummings-924559399/"
+  orcid            : "https://orcid.org/0009-0009-8553-0628"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
