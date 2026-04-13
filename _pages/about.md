@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (CV)](https://ecummings0.github.io/files/Cummings_CV_2024_v1.pdf)
+I'm a postdoctoral scholar working under Nicole Seiberlich in the Michigan Institute of Imaging Technology and Translation (MIITT) at the University of Michigan. 
 
-I'm a PhD candidate working under Nicole Seiberlich in the Michigan Institute of Imaging Technology and Translation (MIITT) at the University of Michigan. My research interests include pulse sequence design and image reconstruction for MRI, specifically with applications in MR Fingerprinting and low-field imaging.
+My current research is in quantitative cardiac MRI, enabling simultaneous acquisition of T1, T2, T2*, and PDFF maps from a single-breathhold scan, using the rosette trajectory, MR fingerprinting pulse sequence, and deep image prior reconstruction. Previous works include evaluation of the MR Fingerprinting Development Kit (MRFDK) through a collaboration with Siemens, and improvements to the through-time radial GRAPPA algorithm to improve reconstruction speed and efficiency for real-time cardiac scans.
