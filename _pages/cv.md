@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://r-a-lobos.github.io/rmi/files/CV_RLOBOS_jan2021.pdf)
+[CV](https://ecummings0.github.io/files/Cummings_CV_2026_v2.pdf)
