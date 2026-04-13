@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 <b>Journal</b>
 ======
 * <b>Cummings E</b>, Cruz G, Kaplan S, Hamilton J, Seiberlich N. IDEAL-DIP reconstruction with rosette cardiac MR Fingerprinting for single-breathhold T1, T2, T2*, and fat fraction mapping at 0.55T. [manuscript in preparation]
